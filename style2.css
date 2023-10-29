@@ -1,6 +1,6 @@
 body {
     font: 16px/28px arial, sans-serif;
-    background-image: url(Images/air.jpg);
+    background-image: url(air.jpg);
     color: rgb(0, 0, 0);
 }
 
@@ -37,7 +37,7 @@ body {
 .hero {
     height: 350px;
     width: auto;
-    background-image: url(Images/logo.png);
+    background-image: url(logo.png);
     background-size: cover;
     background-position: 0 -75px;
     padding-left: 50px;
