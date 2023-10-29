@@ -1,0 +1,68 @@
+body {
+    font: 16px/28px arial, sans-serif;
+    background-image: url(Images/air.jpg);
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(70, 218, 223);
+}
+
+.header {
+    padding: 15px;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.container .header ul {
+    margin-left: -40px;
+}
+
+.header a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.header a:hover {
+    background-color: rgb(13, 123, 197);
+    color: black;
+}
+
+.hero {
+    height: 350px;
+    width: auto;
+    background-image: url(Images/logo.png);
+    background-size: cover;
+    background-position: 0 -75px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.content {
+    padding: 15px;
+}
+
+.content .penulis {
+    margin-top: -30px;
+    padding-top: -20px;
+    font-size: 16px;
+}
+
+.content .penulis a {
+    text-decoration: none;
+    color: black;
+}
+
+.content p {
+    padding: 15px;
+    margin: 15px;
+}
+
